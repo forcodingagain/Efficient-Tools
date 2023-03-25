@@ -4,8 +4,10 @@ description: Efficiently improve work efficiency
 
 # Efficient-Tools
 
-\[gitbook]\([https://z091212033329s-organization.gitbook.io/efficient-tools/](https://z091212033329s-organization.gitbook.io/efficient-tools/))
+{% embed url="https://z091212033329s-organization.gitbook.io/efficient-tools/" %}
+gitbook
+{% endembed %}
 
-* \[AI Tools Collection]\(readme/ai-tools-collection.md)
-* \[Other Tools Collection]\(readme/other-tools-collection.md)
+* [AI Tools Collection](readme/ai-tools-collection.md)
+* [Other Tools Collection](readme/other-tools-collection.md)
 
