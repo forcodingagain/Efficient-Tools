@@ -14,4 +14,14 @@
 + Copy.ai
   + Write text
 
+### AI-Painting
+
+### AI-Audio
+
+### AI-Video
+
 ## Other Tools Collection
+
+### Linux tools
+
+#### Commands
