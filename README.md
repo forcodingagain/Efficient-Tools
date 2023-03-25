@@ -1,3 +1,7 @@
+---
+description: Efficiently improve work efficiency
+---
+
 # Efficient-Tools
 
 ## AI Tools Collection
@@ -16,9 +20,43 @@
 
 ### AI-Painting
 
+* Midjourney
+* PhotorRoom
+* ARC Lab
+* Artbreeder
+* STOCKIMG.AI
+* niji-journey
+* Getimg
+* dreamlike.art
+* Phygital+
+* Beautiful AI
+
 ### AI-Audio
 
+* Brain.fm
+* Soundraw
+* Endel
+* Riffusion
+* Papercup
+* LALAL AI
+* Murf
+* PolyAI
+* voice mode
+* Boomy
+* Mubert
+
 ### AI-Video
+
+* Runaway
+* Cascadeur
+* Synthesia
+* Pollinations
+* ZUBTITL
+* Munch
+* Fliki
+* Peech
+* DreamFace
+* D-ID
 
 ## Other Tools Collection
 
