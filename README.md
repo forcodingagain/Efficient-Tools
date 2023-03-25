@@ -4,10 +4,10 @@ description: Efficiently improve work efficiency
 
 # Efficient-Tools
 
-## AI Tools Collection
+{% content-ref url="readme/ai-tools-collection.md" %}
+[ai-tools-collection.md](readme/ai-tools-collection.md)
+{% endcontent-ref %}
 
-## Other Tools Collection
-
-### Linux tools
-
-#### Bash Commands
+{% content-ref url="readme/other-tools-collection.md" %}
+[other-tools-collection.md](readme/other-tools-collection.md)
+{% endcontent-ref %}
