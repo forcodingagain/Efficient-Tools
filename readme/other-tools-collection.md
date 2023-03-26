@@ -4,45 +4,57 @@ description: linux command-line
 
 # Linux Bash Tools Collection
 
-| Unix tool    | Rust version                                             |
-| ------------ | -------------------------------------------------------- |
-| `cat`        | [`bat`](https://github.com/sharkdp/bat)                  |
-| `grep`       | [`ripgrep`](https://github.com/BurntSushi/ripgrep)       |
-| `find`       | [`fd`](https://github.com/sharkdp/fd)                    |
-| `ls`         | [`exa`](https://github.com/ogham/exa)                    |
-| `ls`         | [`lsd`](https://github.com/Peltoche/lsd)                 |
-| `time`       | [`hyperfine`](https://github.com/sharkdp/hyperfine)      |
-| `cheatsheet` | [`navi`](https://github.com/denisidoro/navi)             |
-| `cd`         | [`zoxide`](https://github.com/ajeetdsouza/zoxide)        |
-| -            | [`xsv`](https://github.com/BurntSushi/xsv)               |
-| -            | [`tv`](https://github.com/alexhallam/tv)                 |
-| `tree`       | [`broot`](https://github.com/Canop/broot)                |
-| `hexdump`    | [`hex`](https://github.com/sitkevij/hex)                 |
-| `hexdump`    | [`hexyl`](https://github.com/sharkdp/hexyl)              |
-| ping         | [`gping`](https://github.com/orf/gping)                  |
-| `-`          | [`grex`](https://github.com/pemistahl/grex)              |
-| `-`          | [`pastel`](https://github.com/sharkdp/pastel)            |
-| `dig`        | [`dog`](https://github.com/ogham/dog)                    |
-| `sed`        | [`sd`](https://github.com/chmln/sd)                      |
-| `-`          | [`watchexec`](https://github.com/watchexec/watchexec)    |
-| `jq`         | [`jql`](https://github.com/yamafaktory/jql)              |
-| `jq`         | [`jless`](https://github.com/PaulJuliusMartinez/jless)   |
-| `-`          | [`pueue`](https://github.com/Nukesor/pueue)              |
-| `-`          | [`angle-grinder`](https://github.com/rcoh/angle-grinder) |
-| `-`          | [`dufs`](https://github.com/sigoden/dufs)                |
-| `cloc`       | [`tokei`](https://github.com/XAMPPRocky/tokei)           |
-| `curl`       | [`xh`](https://github.com/ducaale/xh)                    |
-| `curl`       | [`oha`](https://github.com/hatoo/oha)                    |
-| `diff`       | [`delta`](https://github.com/dandavison/delta)           |
-| `git`        | [`gitoxide`](https://github.com/Byron/gitoxide)          |
-| `nano`       | [`lino`](https://github.com/ahmednooor/lino)             |
-| `nano`       | [`ox`](https://github.com/curlpipe/ox)                   |
-| `nc`         | [`rustcat`](https://github.com/robiot/rustcat)           |
-| `ps`         | [`procs`](https://github.com/dalance/procs)              |
-| `spotify`    | [`psst`](https://github.com/jpochyla/psst)               |
-| `top`        | [`bottom`](https://github.com/ClementTsang/bottom)       |
-| `objdump`    | [`bingrep`](https://github.com/m4b/bingrep)              |
-| `vim`        | [`helix`](https://github.com/helix-editor/helix)         |
-| `vim`        | [`neovide`](https://github.com/neovide/neovide)          |
-| `wc`         | [`cw`](https://github.com/Freaky/cw)                     |
+| Unix tool    | Rust version                                                                                                                                                                                                                              |
+| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `cat`        | [`bat`](https://github.com/sharkdp/bat)                                                                                                                                                                                                   |
+| `grep`       | [`ripgrep`](https://github.com/BurntSushi/ripgrep)                                                                                                                                                                                        |
+| `find`       | [`fd`](https://github.com/sharkdp/fd)                                                                                                                                                                                                     |
+| `ls`         | [`exa`](https://github.com/ogham/exa)                                                                                                                                                                                                     |
+| `ls`         | [`lsd`](https://github.com/Peltoche/lsd)                                                                                                                                                                                                  |
+| `time`       | [`hyperfine`](https://github.com/sharkdp/hyperfine)                                                                                                                                                                                       |
+| `cheatsheet` | [`navi`](https://github.com/denisidoro/navi)                                                                                                                                                                                              |
+| `cd`         | [`zoxide`](https://github.com/ajeetdsouza/zoxide)                                                                                                                                                                                         |
+| `-`          | [`xsv`](https://github.com/BurntSushi/xsv)                                                                                                                                                                                                |
+| `-`          | <p><a href="https://github.com/wfxr/csview"><code>csview</code></a><code></code><br><code></code>Pretty and fast csv viewer for cli with cjk/emoji support.</p>                                                                           |
+| `-`          | [`tv`](https://github.com/alexhallam/tv)                                                                                                                                                                                                  |
+| `tree`       | [`broot`](https://github.com/Canop/broot)                                                                                                                                                                                                 |
+| `hexdump`    | [`hex`](https://github.com/sitkevij/hex)                                                                                                                                                                                                  |
+| `hexdump`    | [`hexyl`](https://github.com/sharkdp/hexyl)                                                                                                                                                                                               |
+| `ping`       | [`gping`](https://github.com/orf/gping)                                                                                                                                                                                                   |
+| `-`          | [`grex`](https://github.com/pemistahl/grex)                                                                                                                                                                                               |
+| `-`          | [`pastel`](https://github.com/sharkdp/pastel)                                                                                                                                                                                             |
+| `dig`        | [`dog`](https://github.com/ogham/dog)                                                                                                                                                                                                     |
+| `sed`        | [`sd`](https://github.com/chmln/sd)                                                                                                                                                                                                       |
+| `sed`        | <p><a href="https://github.com/greymd/teip"><code>teip</code></a><code></code><br><code></code>Masking tape to help commands "do one thing well"</p>                                                                                      |
+| `sed`        | [`sad`](https://github.com/ms-jpq/sad)                                                                                                                                                                                                    |
+| `-`          | [`watchexec`](https://github.com/watchexec/watchexec)                                                                                                                                                                                     |
+| `jq`         | [`jql`](https://github.com/yamafaktory/jql)                                                                                                                                                                                               |
+| `jq`         | [`jless`](https://github.com/PaulJuliusMartinez/jless)                                                                                                                                                                                    |
+| `-`          | [`pueue`](https://github.com/Nukesor/pueue)                                                                                                                                                                                               |
+| `-`          | [`angle-grinder`](https://github.com/rcoh/angle-grinder)                                                                                                                                                                                  |
+| `-`          | [`dufs`](https://github.com/sigoden/dufs)                                                                                                                                                                                                 |
+| `-`          | <p><a href="https://github.com/tbillington/kondo"><code>kondo</code></a> <code></code> <br><code></code>Cleans dependencies and build artifacts from your projects.</p>                                                                   |
+| `-`          | <p><a href="https://github.com/master-of-zen/Av1an"><code>Av1an</code></a><code></code><br><code></code>Cross-platform command-line AV1 / VP9 / HEVC / H264 encoding framework with per scene quality encoding</p>                        |
+| `du -sh`     | <p><a href="https://github.com/sharkdp/diskus"><code>diskus</code></a><code></code><br><code></code>A minimal, fast alternative to 'du -sh'</p>                                                                                           |
+| `-`          | <p><a href="https://github.com/gsquire/topngx"><code>topngx</code></a><code></code><br><code></code>top for NGINX</p>                                                                                                                     |
+| `-`          | <p><a href="https://github.com/simeg/eureka"><code>eureka</code></a><code></code><br><code></code>CLI tool to input and store your ideas without leaving the terminal</p>                                                                 |
+| `-`          | <p><a href="https://github.com/ast-grep/ast-grep"><code>ast-grep</code></a><code></code><br><code></code>A fast and easy tool for code searching, linting, rewriting at large scale. Written in Rust</p>                                  |
+| `cut`        | <p><a href="https://github.com/sstadick/hck"><code>hck</code></a><code></code><br><code></code>A sharp cut(1) clone.</p>                                                                                                                  |
+| `cp`         | <p><a href="https://github.com/Svetlitski/fcp"><code>fcp</code></a><code></code><br><code></code>A significantly faster alternative to the classic Unix cp(1) command, copying large files and directories in a fraction of the time.</p> |
+| man          | <p><a href="https://github.com/orhun/halp"><code>halp</code></a><code></code><br><code></code>A CLI tool to get help with CLI tools</p>                                                                                                   |
+| `cloc`       | [`tokei`](https://github.com/XAMPPRocky/tokei)                                                                                                                                                                                            |
+| `curl`       | [`xh`](https://github.com/ducaale/xh)                                                                                                                                                                                                     |
+| `curl`       | [`oha`](https://github.com/hatoo/oha)                                                                                                                                                                                                     |
+| `diff`       | [`delta`](https://github.com/dandavison/delta)                                                                                                                                                                                            |
+| `git`        | [`gitoxide`](https://github.com/Byron/gitoxide)                                                                                                                                                                                           |
+| `nano`       | [`lino`](https://github.com/ahmednooor/lino)                                                                                                                                                                                              |
+| `nano`       | [`ox`](https://github.com/curlpipe/ox)                                                                                                                                                                                                    |
+| `nc`         | [`rustcat`](https://github.com/robiot/rustcat)                                                                                                                                                                                            |
+| `ps`         | [`procs`](https://github.com/dalance/procs)                                                                                                                                                                                               |
+| `spotify`    | [`psst`](https://github.com/jpochyla/psst)                                                                                                                                                                                                |
+| `top`        | [`bottom`](https://github.com/ClementTsang/bottom)                                                                                                                                                                                        |
+| `objdump`    | [`bingrep`](https://github.com/m4b/bingrep)                                                                                                                                                                                               |
+| `vim`        | [`helix`](https://github.com/helix-editor/helix)                                                                                                                                                                                          |
+| `vim`        | [`neovide`](https://github.com/neovide/neovide)                                                                                                                                                                                           |
+| `wc`         | [`cw`](https://github.com/Freaky/cw)                                                                                                                                                                                                      |
 
