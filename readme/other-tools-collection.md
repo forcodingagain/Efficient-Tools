@@ -34,4 +34,3 @@ description: linux command-line
 | `vim`      | [`neovide`](https://github.com/neovide/neovide)     |
 | `wc`       | [`cw`](https://github.com/Freaky/cw)                |
 
-\
