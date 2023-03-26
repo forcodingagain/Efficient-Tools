@@ -145,3 +145,40 @@ bat main.cpp | xclip
 `bat` will detect that the output is being redirected and print the plain file contents.
 
 ### **`man`**
+
+`bat` can be used as a colorizing pager for `man`, by setting the `MANPAGER` environment variable:
+
+```bash
+export MANPAGER="sh -c 'col -bx | bat -l man -p'"
+man 2 select
+```
+
+(replace `bat` with `batcat` if you are on Debian or Ubuntu)
+
+It might also be necessary to set `MANROFFOPT="-c"` if you experience formatting problems.
+
+If you prefer to have this bundled in a new command, you can also use [`batman`](https://github.com/eth-p/bat-extras/blob/master/doc/batman.md).
+
+Note that the [Manpage syntax](https://github.com/sharkdp/bat/blob/master/assets/syntaxes/02\_Extra/Manpage.sublime-syntax) is developed in this repository and still needs some work.
+
+Also, note that this will [not work](https://github.com/sharkdp/bat/issues/1145) with Mandocs `man` implementation.
+
+### **`prettier` / `shfmt` / `rustfmt`**
+
+The [`prettybat`](https://github.com/eth-p/bat-extras/blob/master/doc/prettybat.md) script is a wrapper that will format code and print it with `bat`.
+
+### **Highlighting `--help` messages**
+
+You can use `bat` to colorize help text: `$ cp --help | bat -plhelp`
+
+You can also use a wrapper around this:
+
+```
+# in your .bashrc/.zshrc/*rc
+alias bathelp='bat --plain --language=help'
+help() {
+    "$@" --help 2>&1 | bathelp
+}
+```
+
+Then you can do `$ help cp` or `$ help git commit`.
