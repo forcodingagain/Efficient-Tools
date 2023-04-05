@@ -133,9 +133,118 @@ Ctrl+a+[：进入copy mode，在copy mode下可以回滚、搜索、复制就像
  b：backward one word，以字为单位往后移
  Space：第一次按为标记区起点，第二次按为终点
  Esc 结束copy mode
-Ctrl+a+]：paste，把刚刚在 copy mode 选定的内容贴上。sh
+Ctrl+a+]：paste，把刚刚在 copy mode 选定的内容贴上。
 ```
 
 ## 2.Tmux
 
+```
+# 创建并指定session名字
+tmux new -s session_name
+
+# 临时退出session
+Ctrl+B D
+
+# 列出session
+tmux ls
+
+# 进入已存在的session
+tmux a -t session_name
+tmux at -t session_name
+tmux attach -t session_name
+
+# 删除指定session
+tmux kill-session -t session_name
+
+# 删除所有session
+tmux kill-server
+
+# 新建Window
+Ctrl+B C
+
+# 前一个Window
+Ctrl+B P
+
+# 后一个Window
+Ctrl+B N
+
+# 删除Window
+Ctrl+B &
+
+# pane
+# 竖向分屏
+Ctrl+B %
+
+# 横向分屏
+Ctrl+B "
+
+# 按照顺序在Pane之间切换
+Ctrl+B O
+
+# 根据上下左右进行Pane切换
+Ctrl+B ↑ ↓ ← →
+
+# 往左往上/往右往下进行Pane切换
+Ctrl+B {
+Ctrl+B }
+
+# 显示Pane编号
+Ctrl+B Q
+
+# 删除当前Pane
+Ctrl+B X
+
+# 调整Pane大小
+Ctrl+B :resize-pane -U [距离]
+Ctrl+B :resize-pane -D [距离]
+Ctrl+B :resize-pane -L [距离]
+Ctrl+B :resize-pane -R [距离]
+
+# 自动重新进行Pane排版
+Ctrl+B Space
+
+# 将Pane升级为Window
+Ctrl+B !
+
+# 将Pane合并到名为window_name的Window中
+Ctrl+B :join-pane -t window_name
+```
+
 ## 3.Byobu
+
+```
+byobu-enable 表示Byobu窗口管理器将在每次文本登录时自动启动
+byobu-disable 表示Byobu窗口管理器将不再在登录时自动启动
+
+(1) 创建窗口
+F2 创建新的窗口
+
+(2) 切换窗口
+F3 回到先前窗口
+F4 跳到下一个窗口
+
+(3) 重命名窗口
+F8 重新命名一个窗口
+
+(4) 窗口操作
+F5 重新加载文件
+F6 释放该次对话
+F7 进入 复制/回滚模式
+F9 配置菜单
+Ctrl + D关闭当前窗口
+
+(1) 创建窗格
+SHIFT + F2 创建一个水平窗格 （ctrl+a %）
+CTRL + F2 创造一个垂直窗格
+
+(2) 切换窗格
+以下三个快捷键都可以让窗格切换:
+SHIFT + LEFT/RIGHT/UP/DOWN
+SHIFT + F3/F4
+CTRL + F3/F4
+
+(3) 设置窗格
+SHIFT + ALT + LEFT/RIGHT/UP/DOWN 调整当前窗格的大小
+SHIFT + F11 切换窗格以暂时填充整个窗口
+ALT + F11 永久地将窗格拆分为自己的新窗口
+```
