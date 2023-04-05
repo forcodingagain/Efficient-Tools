@@ -212,39 +212,8 @@ Ctrl+B :join-pane -t window_name
 
 ## 3.Byobu
 
+same as tmux
+
 ```
-byobu-enable 表示Byobu窗口管理器将在每次文本登录时自动启动
-byobu-disable 表示Byobu窗口管理器将不再在登录时自动启动
-
-(1) 创建窗口
-F2 创建新的窗口
-
-(2) 切换窗口
-F3 回到先前窗口
-F4 跳到下一个窗口
-
-(3) 重命名窗口
-F8 重新命名一个窗口
-
-(4) 窗口操作
-F5 重新加载文件
-F6 释放该次对话
-F7 进入 复制/回滚模式
-F9 配置菜单
-Ctrl + D关闭当前窗口
-
-(1) 创建窗格
-SHIFT + F2 创建一个水平窗格 （ctrl+a %）
-CTRL + F2 创造一个垂直窗格
-
-(2) 切换窗格
-以下三个快捷键都可以让窗格切换:
-SHIFT + LEFT/RIGHT/UP/DOWN
-SHIFT + F3/F4
-CTRL + F3/F4
-
-(3) 设置窗格
-SHIFT + ALT + LEFT/RIGHT/UP/DOWN 调整当前窗格的大小
-SHIFT + F11 切换窗格以暂时填充整个窗口
-ALT + F11 永久地将窗格拆分为自己的新窗口
+F9 - Open Menu
 ```
