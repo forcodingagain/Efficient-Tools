@@ -136,10 +136,6 @@ Ctrl+a+[：进入copy mode，在copy mode下可以回滚、搜索、复制就像
 Ctrl+a+]：paste，把刚刚在 copy mode 选定的内容贴上。sh
 ```
 
-
-
-
-
 ## 2.Tmux
 
 ## 3.Byobu
