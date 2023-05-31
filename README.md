@@ -11,4 +11,4 @@ all document in [gitbook](https://z091212033329s-organization.gitbook.io/efficie
 * [Shell](readme/linux-shell.md)
 * [Linux Terminal Split Screen](readme/linux-terminal-split-screen.md)
 * [Text Editor](readme/linux-text-editor.md)
-
+* [AweSome Shell](readme/awesome-shell.md)
