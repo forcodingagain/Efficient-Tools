@@ -1,6 +1,6 @@
 # AI Tools Collection
 
-### AI-Text
+## AI-Text
 
 * ChatGPT
 * Character.ai

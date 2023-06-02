@@ -18,7 +18,3 @@
 * [Autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
 
 * [await](https://github.com/slavaGanzin/await) - 28Kb, small memory footprint, single binary that run list of commands in parallel and waits for their termination.
-
-
-
-
