@@ -47,3 +47,13 @@
 
 ## Directory Navigation
 
+* [jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate your file system faster by learning your habits.
+* [z](https://github.com/skywind3000/z.lua) - z is the new j, yo.
+* [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem, written in Rust.
+
+## Customization
+
+* [Gogh](https://github.com/Gogh-Co/Gogh) - Color Scheme - Color Scheme for Gnome Terminal.
+* [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh.
+* [oh-my-posh](https://ohmyposh.dev/) - Prompt theme engine for any shell and platform written in go.
+* [powerlevel10k](https://github.com/romkatv/powerlevel10k) - Super flexible awesome powerline ZSH theme.
