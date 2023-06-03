@@ -18,4 +18,32 @@
 * [boom](https://github.com/holman/boom) - Motherfucking TEXT SNIPPETS! On the COMMAND LINE!
 * [borg](https://github.com/ok-borg/borg) - A terminal based search engine for bash commands.
 * [broot](https://github.com/Canop/broot) - A better way to navigate directories.
-* [byobu](https://www.byobu.org/) - Text-based window manager and terminal multiplexer
+* [byobu](https://www.byobu.org/) - Text-based window manager and terminal multiplexer.
+* [direnv](https://github.com/direnv/direnv) - An environment switcher for the shell, compare with autoenv.
+* [dnote](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync and web interface.
+* [eureka](https://github.com/simeg/eureka/) - 💡 CLI tool to input and store your ideas without leaving the terminal.
+* [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find.
+* [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
+* [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
+* [gitmux](https://github.com/arl/gitmux) - Show Git status in Tmux status bar.
+* [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
+* [hhighlighter](https://github.com/paoloantinori/hhighlighter) - Colorize words in a command output.
+* [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box.
+* [lf](https://github.com/gokcehan/lf) - Terminal file manager written in Go, inspired by ranger.
+* [loop](https://github.com/Miserlou/Loop) - Write and control complex loops with as one-liners.
+* [mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scot!
+* [nnn](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration.
+* [parallel](https://www.gnu.org/software/parallel/) - Build and execute shell command lines from standard input in parallel.
+* [pass](https://www.passwordstore.org/) - Manage passwords from the command line with GPG encryption and optional git integration.
+* [pdd](https://github.com/jarun/pdd) - Tiny date, time diff calculator with timers.
+* [resh](https://github.com/curusarn/resh) - Contextual shell history for Zsh and Bash.
+* [rg](https://github.com/BurntSushi/ripgrep) - ripgrep is a line oriented search tool that combines the usability of The Silver Searcher with the raw speed of GNU grep.
+* [screen](https://www.gnu.org/software/screen/) - GNU terminal multiplexer.
+* [snips](https://github.com/srijanshetty/snips) - Command line tool to manage snippets of code.
+* [tmux](https://github.com/tmux/tmux/wiki) - Amazing terminal multiplexer.
+* [usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases.
+* [xsv](https://github.com/BurntSushi/xsv) - a fast CSV command line toolkit written in Rust.
+* [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH.
+
+## Directory Navigation
+
