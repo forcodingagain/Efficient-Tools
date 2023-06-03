@@ -1,6 +1,6 @@
 # Linux Shell
 
-## 1.Oh-My-Zsh
+## Oh-My-Zsh
 
 ### Plugins
 
