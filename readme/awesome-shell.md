@@ -57,3 +57,11 @@
 * [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh.
 * [oh-my-posh](https://ohmyposh.dev/) - Prompt theme engine for any shell and platform written in go.
 * [powerlevel10k](https://github.com/romkatv/powerlevel10k) - Super flexible awesome powerline ZSH theme.
+
+## For Developers
+
+* [1Password SSH Agent](https://developer.1password.com/docs/ssh/) - Authenticate Git and SSH workflows with biometric unlock using 1Password.
+* [add-gitignore](https://github.com/TejasQ/add-gitignore) - Interactive CLI that generates a .gitignore for your project based on your needs.
+* [cloc](https://github.com/AlDanial/cloc) - Count Lines of Code.
+* [forgit](https://github.com/wfxr/forgit) - Utility tool for git taking advantage of fuzzy finder fzf.
+* [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Many Git extra utilities. Churn, cut-branch, improved-merge and many more.
