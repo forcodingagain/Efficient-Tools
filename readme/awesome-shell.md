@@ -65,3 +65,6 @@
 * [cloc](https://github.com/AlDanial/cloc) - Count Lines of Code.
 * [forgit](https://github.com/wfxr/forgit) - Utility tool for git taking advantage of fuzzy finder fzf.
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Many Git extra utilities. Churn, cut-branch, improved-merge and many more.
+* [git-extras](https://github.com/tj/git-extras) - Git utilities -- repo summary, repl, changelog population, author commit percentages and more.
+* [git-open](https://github.com/paulirish/git-open) - Type git open to open the GitHub page or website for a repository in your browser.
+* [gita](https://github.com/nosarthur/gita) - A command-line tool to manage multiple git repos.
