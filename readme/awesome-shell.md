@@ -68,3 +68,11 @@
 * [git-extras](https://github.com/tj/git-extras) - Git utilities -- repo summary, repl, changelog population, author commit percentages and more.
 * [git-open](https://github.com/paulirish/git-open) - Type git open to open the GitHub page or website for a repository in your browser.
 * [gita](https://github.com/nosarthur/gita) - A command-line tool to manage multiple git repos.
+* [just](https://github.com/casey/just) - Task runner for saving and running project-specific commands.
+* [overcommit](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager.
+* [pre-commit](https://pre-commit.com/) - A framework for managing and maintaining multi-language pre-commit hooks.
+* [vmn](https://github.com/final-israel/vmn) - git-based automatic versioning and state recovery solution agnostic to language or architecture.
+
+## System Utilities
+
+> OS-related tools, including system administration, system debugging, and file and process management.
