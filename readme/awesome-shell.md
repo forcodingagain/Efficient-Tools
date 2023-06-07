@@ -88,3 +88,7 @@
 ## Downloading and Serving
 
 > Self-hosted, lightweight servers and networking tools written in shell scripts.
+
+* [httpie](https://github.com/httpie/httpie) - HTTPie is a command line HTTP client, a user-friendly cURL replacement.
+* [shell2http](https://github.com/msoap/shell2http) - HTTP-server to execute shell commands. Designed for development, prototyping or remote control.
+* [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests.
