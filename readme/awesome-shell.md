@@ -76,3 +76,15 @@
 ## System Utilities
 
 > OS-related tools, including system administration, system debugging, and file and process management.
+
+* [bat](https://github.com/sharkdp/bat) - A cat clone with wings.
+* [exa](https://github.com/ogham/exa) - A modern version of ls.
+* [progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, rm, dd, and more...
+* [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system.
+* [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems.
+* [htop](https://github.com/hishamhm/htop) - A ncurses based interactive process viewer which aims to be a better top.
+* [ncdu](https://dev.yorhel.nl/ncdu) - NCurses Disk Usage.
+
+## Downloading and Serving
+
+> Self-hosted, lightweight servers and networking tools written in shell scripts.
