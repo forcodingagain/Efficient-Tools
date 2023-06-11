@@ -92,3 +92,18 @@
 * [httpie](https://github.com/httpie/httpie) - HTTPie is a command line HTTP client, a user-friendly cURL replacement.
 * [shell2http](https://github.com/msoap/shell2http) - HTTP-server to execute shell commands. Designed for development, prototyping or remote control.
 * [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests.
+
+## Multimedia and File Formats
+
+> Tools for handling video and audio files.
+
+* [dasel](https://github.com/tomwright/dasel) - Query and update data structures using selectors from the command line. Comparable to jq / yq but supports JSON, YAML, TOML and XML with zero runtime dependencies.
+* [fx](https://github.com/antonmedv/fx) - Command-line JSON processing tool by anononymus JavaScript functions.
+* [gifgen](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding.
+* [imgp](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator.
+* [jc](https://github.com/kellyjonbrazil/jc) - Convert command output, file-types, and common strings to JSON or YAML for easier use in scripts.
+* [jo](https://github.com/jpmens/jo) - A small utility to create JSON objects from command-line arguments.
+* [jq](https://github.com/jqlang/jq) - Sed for json data. You can use it to slice and filter and map and transform structured data.
+* [korkut](https://github.com/oguzhaninan/korkut) - Quick and simple image processing at the command line.
+* [visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for exploring and arranging data (csv/json/xml/xls/yaml/etc).
+* [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
