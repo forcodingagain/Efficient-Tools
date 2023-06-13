@@ -106,4 +106,24 @@
 * [jq](https://github.com/jqlang/jq) - Sed for json data. You can use it to slice and filter and map and transform structured data.
 * [korkut](https://github.com/oguzhaninan/korkut) - Quick and simple image processing at the command line.
 * [visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for exploring and arranging data (csv/json/xml/xls/yaml/etc).
-* [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
+* [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor.
+
+## Applications
+
+> Command line-based applications or command line access to existing services.
+
+* [fanyi](https://github.com/afc163/fanyi) - Translate English to Chinese in terminal.
+* [taskwarrior](https://taskwarrior.org/) - A command-line TODO list manager.
+* [vl](https://github.com/ellisonleao/vl) - URL link checker on text documents.
+
+## Shell Package Management
+
+> Tools for managing multiple shell configurations. For zsh-specific tools, see the Zsh section.
+
+* [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
+* [bpkg](https://github.com/bpkg/bpkg) - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg.
+* [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere.
+* [shallow-backup](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed packages, dotfiles, and more.
+* [vcsh](https://github.com/RichiH/vcsh) - Config manager based on Git.
+* [yadm](https://github.com/TheLocehiliosan/yadm) - Git-based dotfiles manager supporting encryption, alternates, and bootstrapping.
+
