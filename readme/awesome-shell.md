@@ -127,3 +127,12 @@
 * [vcsh](https://github.com/RichiH/vcsh) - Config manager based on Git.
 * [yadm](https://github.com/TheLocehiliosan/yadm) - Git-based dotfiles manager supporting encryption, alternates, and bootstrapping.
 
+## Shell Script Development
+
+> Tools for writing, improving, or organizing Bash or other shell scripts.
+
+* [bashew](https://github.com/pforret/bashew) - bash script creator - from small stand-alone script to complex projects with CI/CD and testing.
+* [bats](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
+* [mo](https://github.com/tests-always-included/mo) - Mustache templates in pure bash.
+* [shellcheck](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts.
+* [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt.
