@@ -1,5 +1,18 @@
 # Awesome Shell
 
+## Better Command-Line Productivity
+
+1. [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
+2. [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+3. [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore.
+4. [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'.
+5. [jq](https://github.com/jqlang/jq) - Command-line JSON processor.
+6. [exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
+7. [delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output.
+8. [polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js.
+9. [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool.
+10. [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils.
+
 ## shell
 
 > Choose your base shell.
