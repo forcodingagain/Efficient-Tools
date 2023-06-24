@@ -12,6 +12,16 @@
 8. [polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js.
 9. [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool.
 10. [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils.
+11. [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
+12. [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+13. [RustScan](https://github.com/RustScan/RustScan) - The Modern Port Scanner.
+14. [lsd](https://github.com/lsd-rs/lsd) - The next gen ls command.
+15. [xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
+16. [broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot.
+17. [tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
+18. [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer.
+19. [gping](https://github.com/orf/gping) - Ping, but with a graph.
+20. [dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust.
 
 ## shell
 
