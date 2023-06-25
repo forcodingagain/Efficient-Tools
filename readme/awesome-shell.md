@@ -22,6 +22,34 @@
 18. [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer.
 19. [gping](https://github.com/orf/gping) - Ping, but with a graph.
 20. [dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust.
+21. [grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library for generating regular expressions from user-provided test cases.
+22. [atuin](https://github.com/ellie/atuin) - Magical shell history.
+23. [dog](https://github.com/ogham/dog) - A command-line DNS client.
+24. [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors.
+25. [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative).
+26. [procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust.
+27. [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications.
+28. [pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
+29. [jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
+30. [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests.
+31. [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
+32. [pueue](https://github.com/Nukesor/pueue) - Manage your shell commands.
+33. [angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line.
+34. [dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
+35. [rq](https://github.com/dflemstr/rq) - Record Query - A tool for doing record analysis and transformation.
+36. [tv](https://github.com/alexhallam/tv) - (tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
+37. [oha](https://github.com/hatoo/oha) - HTTP load generator, inspired by rakyll/hey with tui animation.
+38. [sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD.
+39. [Av1an](https://github.com/master-of-zen/Av1an) - Cross-platform command-line AV1 / VP9 / HEVC / H264 encoding framework with per scene quality encoding.
+40. [kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
+41. [jql](https://github.com/search?q=jql) - A JSON Query Language CLI tool.
+42. [diskus](https://github.com/sharkdp/diskus) - A minimal, fast alternative to 'du -sh'.
+43. [bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
+44. [ast-grep](https://github.com/ast-grep/ast-grep) - A fast and polyglot tool for code structrual search, lint and rewriting at large scale. Written in Rust.
+45. [teip](https://github.com/greymd/teip) - Masking tape to help commands "do one thing well".
+46. [csview](https://github.com/wfxr/csview) - Pretty and fast csv viewer for cli with cjk/emoji support.
+47. [ruplacer](https://github.com/your-tools/ruplacer) - Find and replace text in source files.
+48. [rmt](https://github.com/AmineZouitine/rmt.rs) - Rmt is similar to the rm command but saves the deleted elements in the trash and restores them. Rmt is written in Rust.
 
 ## shell
 
